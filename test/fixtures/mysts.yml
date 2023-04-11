@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game: MyString
+  creature: MyString
+  age: MyString
+  character: MyString
+  quote: MyString
+
+two:
+  game: MyString
+  creature: MyString
+  age: MyString
+  character: MyString
+  quote: MyString
